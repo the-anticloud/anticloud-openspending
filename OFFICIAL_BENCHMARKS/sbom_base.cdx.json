@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:d1caa75f-e25f-5982-b8ac-8e4f4d6b3563",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T16:25:53Z",
+    "component": {
+      "type": "application",
+      "name": "OPENSPENDING",
+      "version": "ced1e25253fb",
+      "bom-ref": "pkg:generic/anticloud/OPENSPENDING@ced1e25253fb",
+      "purl": "pkg:generic/anticloud/OPENSPENDING@ced1e25253fb",
+      "licenses": [
+        {
+          "license": {
+            "id": "AGPL-3.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "ced1e25253fb433fe7a47dd1636d372dc56dfe58"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/openspending/openspending"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
